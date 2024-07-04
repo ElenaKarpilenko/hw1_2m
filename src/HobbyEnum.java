@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class HobbyEnum {
+public enum HobbyEnum {
+    CHESS,
+    COOK,
+    FISHING
 }
