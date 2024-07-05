@@ -15,7 +15,7 @@ public final class Son extends Father {
 
     @Override
     public void goWork(String work) {
-        System.out.println("Едет на работу после учебы");
+        System.out.println("Едет на работу после учебы" + this.getWork());
     }
 
     @Override

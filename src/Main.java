@@ -8,5 +8,8 @@ public class Main {
         System.out.println(father);
         System.out.println(son1);
         System.out.println(son2);
+
+        father.goWork();
+        son1.goWork();
     }
 }
